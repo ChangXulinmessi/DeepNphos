@@ -29,7 +29,7 @@ DeepNphos is an open-source Python-based toolkit, which operates in the Python e
  
   ```
   
-  - Step 4. run DeepNphos:
+  - Step 4. Run DeepNphos:
   cd to the *DeepNphos* folder which contains DeepNphos.py and run the ‘ DeepNphos.py’ script as follows:
   ```sh
   python  DeepNphos.py
